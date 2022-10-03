@@ -4,7 +4,7 @@ Developed with Unreal Engine 5 "# runner_saida"
 
 ## The mechanic
 
-Only you use two keys:
+Only you should use two keys:
 - **A:** Move Left
 - **D:** Move Right
 
