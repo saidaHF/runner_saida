@@ -18,7 +18,7 @@ You must throw all the bowling pins possible
 - [x] Movement by physics and with collisions.
 - [x] Creating objects with a spawner (Related to the 1st Optional Risketo)
 - [x] Randomize anywhere in the game
-- [ ] Score displayed by screen, not worth debugging.
+- [x] Score displayed by screen, not worth debugging.
 
 **Optional Risks (30%)**
 - [ ] Make a pool of objects
