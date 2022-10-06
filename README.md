@@ -11,7 +11,7 @@ Only you should use two keys:
 ## The objective
 You must throw all the bowling pins possible 
 
-OBJECTIVES: 
+-----------------------------------------------------------------------------------
 
 **Basic Risks (60%)**
 - [x] Simple controls, just click or one or two buttons.
