@@ -12,7 +12,7 @@ Only you should use two keys:
 You must throw all the bowling pins possible 
 
 -----------------------------------------------------------------------------------
-
+🟢 **PROJECT:**
 **Basic Risks (60%)**
 - [x] Simple controls, just click or one or two buttons.
 - [x] Movement by physics and with collisions.
