@@ -12,15 +12,14 @@ Only you should use two keys:
 You must throw all the bowling pins possible 
 
 -----------------------------------------------------------------------------------
-🟢 **PROJECT:**
-**Basic Risks (60%)**
+🟢 **Basic Risks (60%)**
 - [x] Simple controls, just click or one or two buttons.
 - [x] Movement by physics and with collisions.
 - [x] Creating objects with a spawner (Related to the 1st Optional Risketo)
 - [x] Randomize anywhere in the game
 - [x] Score displayed by screen, not worth debugging.
 
-**Optional Risks (30%)**
+🟠 **Optional Risks (30%)**
 - [ ] Make a pool of objects
 - [ ] Progressive increase in difficulty
 - [ ] Use of parallax or other advanced background format
