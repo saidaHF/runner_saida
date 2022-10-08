@@ -9,7 +9,7 @@ Only you should use two keys:
 - **D:** Move Right ➡
 
 ## The objective 🏁
-You must throw all the bowling pins possible and you must dodge the black bowling for win!
+You must throw all the white bowling possible and you must dodge the black bowling for win!
 Each white bowling knocked is + 10 points 💥
 
 -----------------------------------------------------------------------------------
